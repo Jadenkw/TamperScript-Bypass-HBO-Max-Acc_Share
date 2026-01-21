@@ -7,6 +7,8 @@
 // @match        https://play.hbomax.com/*
 // @match        https://play.max.com/*
 // @match        https://www.max.com/*
+// @downloadURL  https://github.com/Jadenkw/TamperScript-Bypass-HBO-Max-Acc_Share/raw/refs/heads/main/hbo-max-bypass.user.js
+// @updateURL    https://github.com/Jadenkw/TamperScript-Bypass-HBO-Max-Acc_Share/raw/refs/heads/main/hbo-max-bypass.user.js
 // @icon         https://images.cdn.prd.api.discomax.com/cd29/5df7884b6626.png
 // @grant        GM_addStyle
 // @run-at       document-start
