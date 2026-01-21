@@ -3,7 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Hides the modal and enables scrollbar.
-// @author       Jkdubs
+// @author       jadenkw
+// @license MIT
 // @match        https://play.hbomax.com/*
 // @match        https://play.max.com/*
 // @match        https://www.max.com/*
